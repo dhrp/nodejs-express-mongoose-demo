@@ -29,5 +29,9 @@
     , "async": "latest"
     , "nodemon": "latest"
     , "view-helpers": "latest"
+    , "pause": "latest"
+    , "bytes": "latest"
+    , "bson": "latest"
+    
   }
 }
